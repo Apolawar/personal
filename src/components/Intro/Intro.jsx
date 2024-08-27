@@ -31,7 +31,7 @@ const Intro = () => {
           <span>Anant Polawar</span>
           <span>
             Frontend Developer in web designing
-            and development, producting the Quality work
+            and development producting the Quality work
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
